@@ -1,0 +1,10 @@
+a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px;}
+ul{padding: 14px;}
+li{list-style: none; display: inline;}
+li a{background: #ffffff; color: #a0522d; float: right;}
+li a:hover{background: #a0522d; color: #ffffff;}
+.navi{background: #ffe4b5; height: 80px;}
+.navi1{background: #ffffff; height: 80px;}
+.judul{
+    font-family: monospace; color: #a0522d;
+}
